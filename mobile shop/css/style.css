@@ -1,0 +1,39 @@
+.nav-item{
+    margin-left: 40px;
+    padding: 5px;
+}
+.home{
+    background-image: linear-gradient(to right bottom,black,rgba(139, 139, 139, 0.479)); 
+    height: 680px;
+    
+}
+.img-fluid{
+    padding: auto;
+    margin-top: 0%;
+}
+.card-img-top{
+    max-height: 400px;
+    min-height: 400px;
+}
+.img1{
+    transform: translateY(-250px);
+}
+.btn-show{
+    background-image: linear-gradient(to right bottom,black,rgba(139, 139, 139, 0.479)); 
+    color: white;
+    border: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card:hover{
+                 transition: all .4s;
+                 box-shadow: 2px 1px 2px 2px rgb(59, 58, 58);
+
+}
+.footer{
+    height: 400px;
+    width:100%;
+    background-color: #222;
+}
